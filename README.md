@@ -1,0 +1,1 @@
+This current project is to practice html by creating a simple recipe website.
